@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "396960266134",
+    "project_id": "sellwave-482dc",
+    "storage_bucket": "sellwave-482dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396960266134:android:6dd27e8b57383b04cc4fb7",
+        "android_client_info": {
+          "package_name": "com.example.ab_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbQagXjbaoCxaN-qYEUU0ZV8cMmwvOtkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396960266134:android:eade4590fb41c89ccc4fb7",
+        "android_client_info": {
+          "package_name": "com.example.auctify_projet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbQagXjbaoCxaN-qYEUU0ZV8cMmwvOtkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
